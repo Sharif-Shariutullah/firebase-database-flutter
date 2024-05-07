@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "204129505658",
+    "project_id": "test-project01-393a7",
+    "storage_bucket": "test-project01-393a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204129505658:android:d49622109cb1d0b8aec6c3",
+        "android_client_info": {
+          "package_name": "com.example.firbase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCv4NseaH9K1pDAah6WRsUOJkzbyhtBq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

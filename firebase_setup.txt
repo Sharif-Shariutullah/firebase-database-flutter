@@ -1,0 +1,17 @@
+npm install -g firebase-tools
+
+
+dart pub global activate flutterfire_cli
+
+firebase login
+
+dart pub global activate flutterfire_cli
+
+(set Path
+Create DB and wright permission)
+
+flutterfire configure
+
+flutter pub add firebase_core
+
+flutter pub add cloud_firestore
